@@ -1,0 +1,6 @@
+module Pods_Movinvio {
+  umbrella header "Pods-Movinvio-umbrella.h"
+
+  export *
+  module * { export * }
+}
